@@ -23,4 +23,4 @@
 Enjoy.
 
 # Screenshot  
-![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.jpg)
+![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.png)
