@@ -18,7 +18,7 @@
 
 # Usage  
    *Run the script  
-    python MediaScope.py
+    python MediaScope.py  
 Enjoy.
 
 # Screenshot  
