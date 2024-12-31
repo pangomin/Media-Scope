@@ -19,7 +19,7 @@
 # Usage  
    *Run the script  
    ```bash
-   python MediaScope.py  
+   python MediaScope.py```
 Enjoy.
 
 
