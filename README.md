@@ -17,7 +17,9 @@
    Update the Config class in the code with your API_ID, API_HASH, and PHONE_NUMBER.
 
 # Usage  
-Run the script  
-     ```python MediaScope.py```
+   *Run the script  
+     ```bash
+    python MediaScope.py
+Enjoy.
 # Screenshot
 ![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.jpg)
