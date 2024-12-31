@@ -20,6 +20,6 @@
    *Run the script  
    ```bash
    python MediaScope.py  
-Enjoy.
+Enjoy.  
 # Screenshot
 ![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.jpg)
