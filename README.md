@@ -21,5 +21,5 @@
     python MediaScope.py
 Enjoy.
 
-#Screenshot  
+# Screenshot  
 ![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.jpg)
