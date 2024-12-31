@@ -18,8 +18,8 @@
 
 # Usage  
    *Run the script  
-     ```bash
-    python MediaScope.py  
+   ```bash
+   python MediaScope.py  
 Enjoy.
 # Screenshot
 ![Screenshot](https://github.com/pangomin/Media-Scope/blob/main/Screenshot.jpg)
