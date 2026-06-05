@@ -1,2 +1,9 @@
-telethon==1.30.0
-rich==13.5.2
+# MediaScope — runtime dependencies
+# Install with: pip install -r requirements.txt
+
+telethon>=1.36.0   # Telegram MTProto client
+rich>=13.7.0       # Terminal UI: tables, progress bars, styled logging
+
+# All other imports (asyncio, json, logging, pathlib, platform, sys,
+# dataclasses, datetime, typing) are part of the Python standard library.
+# Minimum Python version: 3.10 (uses dict[str, …] type hints directly)
